@@ -1,3 +1,3 @@
-# hello-wolrd
+# hello-world
 projecte de prova
-descripcio
+descripció
